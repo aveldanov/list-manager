@@ -1,0 +1,16 @@
+.header{
+  background-color: red;
+}
+
+.dashboard-card{
+height: 400px;  
+color:red;
+padding: 10px;
+/* margin: 15px; */
+
+
+}
+
+.dashboard-line{
+  height: 100px;
+}
